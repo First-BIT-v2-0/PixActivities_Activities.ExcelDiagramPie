@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHxKOYMtoYc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AAKholodnova\\Documents\\Pix\\самоизуч\\ГотовыеАктивности\\Activities.ExcelDiagramPie\\PixActivities_Activities.ExcelDiagramPie\\Activities.ExcelDiagramPie\\Activities.ExcelDiagramPie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AAKholodnova\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\AAKholodnova\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\AAKholodnova\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\AAKholodnova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
